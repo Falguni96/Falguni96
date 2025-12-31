@@ -5,6 +5,7 @@
 📍 UK
 
 🔹 About Me
+
 I am a data analytics graduate with hands-on experience in end-to-end data analysis, including data cleaning, exploration, visualisation, and insights generation. I enjoy working with real-world datasets and transforming data into actionable insights.
 
 🔹 Skills
